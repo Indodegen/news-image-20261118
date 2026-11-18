@@ -1,7 +1,12 @@
 # The World in One Image — Wednesday 18 November 2026
 
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/Indodegen/news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/Indodegen/news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+
 A make.fun bounty entry for **news-image-20261118**: sum up 18 November's
-world news in one image.
+world news in one image. Bounty page:
+[Sum up 18 November's world news in one image](https://make.fun/bounty/news-image-20261118).
 
 `main.py` is a Python standard-library-only program (no PIL, no network,
 no API keys). It draws a 1024×1024 newspaper front-page infographic and
